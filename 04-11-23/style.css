@@ -25,7 +25,7 @@ html {
 }
 
 body {
-  height: 100vh;
+  min-height: 100vh;
   display: grid;
   place-content: center;
   background: linear-gradient(to right top, var(--body-bg-2), var(--body-bg-1));
